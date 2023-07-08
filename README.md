@@ -30,3 +30,9 @@ While the generated mdbook has any and all personal information removed from it 
 I might decide to commit the input as well, but I want to talk it through with someone else first, make sure I'm not violating someones privacy. I mean, it's all already publicly available in the server, so I don't see how putting it on Github could hurt, but still, privacy is a serious matter.
 
 Since the data sent to ChatGPT is already publicly available data, there shouldn't be any issues with sharing data with it.
+
+## Todo
+
+- [ ] Scrape Discord instead of manually copying posts one-by-pain-staking-one
+- [ ] Make the script respect ✅ in `SUMMARY.md` for posts so they remain after regeneration as well as using it to determine which posts are ready to be posted
+- [ ] Use the StackOverflow API to submit the posts
