@@ -2,6 +2,8 @@
 
 # Discord to StackOverflow<br/>Post generator
 
+<a href="https://simonhyll.github.io/tauri-discord-to-stackoverflow/"><img src="https://img.shields.io/badge/website-live-green" target="_blank"></a>
+
 </div>
 
 ## Getting started

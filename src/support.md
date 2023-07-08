@@ -11,4 +11,4 @@ You can search all posts based on both their thread ID now and their title in Di
 
 ## Regenerate posts
 
-To regenerate a post, in case you think ChatGPT can do better with another attempt, simply delete the post in `src/support/` and quickly re-run `python3 generate.py` before mdbook decides to generate an empy version of the file. Of course, you can also simply close mdbook so there's no time pressure while regenerating posts.
+To regenerate a post, in case you think ChatGPT can do better with another attempt, simply delete the post in `src/support/` and quickly re-run `python3 generate.py` before mdbook decides to generate an empty version of the file. Of course, you can also simply close mdbook so there's no time pressure while regenerating posts.
